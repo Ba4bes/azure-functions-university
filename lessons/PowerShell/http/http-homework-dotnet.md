@@ -2,7 +2,7 @@
 
 ## Goal 🎯
 
-The goal of this homework assignment is for you to use the knowledge gained in the [HTTP Trigger lesson](http-lesson-dotnet.md) and get hands-on.
+The goal of this homework assignment is for you to use the knowledge gained in the [HTTP Trigger lesson](http-lesson-powershell.md) and get hands-on.
 
 ## Assignment
 
@@ -10,7 +10,7 @@ Create an Azure Function with HTTP trigger that returns your resume information 
 
 ## Resources
 
-- Solution can be found [here](../src/dotnet/homework/resume-api/Resume.cs), try to accomplish it on your own first.
+- Solution can be found [here](../src/powershell/homework/resume-api/), try to accomplish it on your own first.
 
 - [This](https://dev.to/rishabk7/how-i-built-a-resume-api-w-javascript-and-azure-functions-fbm) is a fantastic tutorial using javascript by [Rishab Kumar](https://twitter.com/rishabk7)
 
@@ -20,4 +20,4 @@ Create an Azure Function with HTTP trigger that returns your resume information 
 
 Please share you solutions on LinkedIn and Twitter using the #AzFuncUni hashtag and mention us. We would love to see it!
 
-[Gwyneth](https://twitter.com/madebygps) and [Marc](https://twitter.com/marcduiker)
+[Barbara](https://twitter.com/ba4bes) and [Marc](https://twitter.com/marcduiker)
